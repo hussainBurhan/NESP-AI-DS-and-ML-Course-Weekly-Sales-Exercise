@@ -21,4 +21,4 @@ This Python project demonstrates basic sales analysis using NumPy and Pandas lib
 
 
 ## Acknowledgments
-This program was created as part of the Python for Everyone course offered by the National Emerging Skills Program (NESP).
+This program was created as part of the AI, DS and ML Course offered by the National Emerging Skills Program (NESP).
